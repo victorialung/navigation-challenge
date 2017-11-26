@@ -5,7 +5,7 @@
 * **Unidad:** _Intro a User Experience Design_
 
 ***
-## Objetivo
+##Objetivo
 
 Identifica los elementos de navegación en los siguientes sites :
 - Breather
@@ -48,8 +48,10 @@ Identifica los elementos de navegación en los siguientes sites :
 
    > **Imagen 11** :Visualizamos en el primer recuadro un tipo de navegación global, el cual persistira en las diferentes vistas o areas del site.
 ![image11](assets/img/image11.jpg)
+
    > **Imagen 12**: El recuadro representa a una navegacion del tipo contextual, ya que ofrece temas afines a la búsqueda.
 ![image12](assets/img/image12.jpg)
+
    > **Imagen 13** :Dentro del area establecida se visualiza en el recuadro una navegación local, ya que tiene su propia navegación.
 ![image13](assets/img/image13.jpg)
 
@@ -58,6 +60,7 @@ Identifica los elementos de navegación en los siguientes sites :
 
    > **Imagen 15**
 ![image15](assets/img/image15.jpg)
+
    > **Imagen 16** : Dado el primer recuadro pertenece a un tipo de navaegación local, el segundo recuadro es del tipo filtrada, ya muestra todos los temas del web para que el usuario maque los tipos de filtros que desee.
 ![image16](assets/img/image16.jpg)
 
