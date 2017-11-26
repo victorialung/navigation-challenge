@@ -12,7 +12,7 @@ Identifica los elementos de navegación en los siguientes sites :
 - Medium
 - Github
 
-##Caso: Breather
+## Caso: Breather
 
    > Imagen 1 :Visualizamos en el primer recuadro un tipo de navegación global y en el segundo otro del tipo inline. Respecto al último recuadro creeamo que es inline , a pesar del dispositivo de filtro porque el area no muestra todos los elementos de búsqueda y le brinda al usuario una serie de filtros, solamente muestra uno(como se muestra en imagen); por lo tanto,navegacion inline se adecua mejor a nuestro criterio.
 ![image1](assets/img/image1.jpg)
@@ -44,7 +44,7 @@ Identifica los elementos de navegación en los siguientes sites :
    > **Imagen 10**
 ![image10](assets/img/image10.jpg)
 
-##Caso: Medium
+## Caso: Medium
 
    > **Imagen 11** :Visualizamos en el primer recuadro un tipo de navegación global, el cual persistira en las diferentes vistas o areas del site.
 ![image11](assets/img/image11.jpg)
@@ -64,7 +64,7 @@ Identifica los elementos de navegación en los siguientes sites :
    > **Imagen 16** : Dado el primer recuadro pertenece a un tipo de navaegación local, el segundo recuadro es del tipo filtrada, ya muestra todos los temas del web para que el usuario maque los tipos de filtros que desee.
 ![image16](assets/img/image16.jpg)
 
-##Caso: Github
+## Caso: Github
 
    > **Imagen 17** :Se visualiza en el recuadro una navegacion del tipo global del site.
 ![image17](assets/img/image17.jpg)
